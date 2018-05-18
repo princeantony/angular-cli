@@ -1,0 +1,3 @@
+http://www.mockapi.io/login
+http://5afe6edfd0cc5b001479bf5b.mockapi.io/api/products
+https://p.w3layouts.com/demos/e_shop/web/index.html
